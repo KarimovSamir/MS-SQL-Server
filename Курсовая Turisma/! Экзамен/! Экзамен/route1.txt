@@ -1,0 +1,13 @@
+1, N'Vorontsov monument', N'Vorontsov is Novorossiysk and Bessarabian governor-general. It is the second monument in Odessa, built in 1863.', N'46.484122', N'30.731614'
+1, N'Monument to Leonid Utyosov', N'It is a bronze sculpture, erected in memory of the Odessa Soviet artist and singer Leonid Utesov in 2000.', N'46.484739', N'30.734435'
+1, N'The sculpture "Laocoon"', N'It is a marble sculpture, a copy of the famous sculpture "Laocoon and His Sons", set in front of the Odessa Archaeological Museum.', N'46.485326', N'30.742525'
+1, N'Monument to Alexander Pushkin', N'It was built in 1887-1889 in Odessa on the Primorskiy Boulevard with funds donated by Odessa citizens. It is the third monument in Odessa.', N'46.486105', N'30.743592'
+1, N'Monument to Duke de Richelieu', N'It is a bronze statue, dedicated to Armand Emmanuel du Plessis, Duc de Richelieu, opened in 1828. The first monument erected in Odessa.', N'46.488151', N'30.741154'
+1, N'Monument to the founders of Odessa', N'Monument to Catherine the Great and her companions: de Ribas de flounce, Potemkin and Zubov. Located in Odessa on Catherine Square.', N'46.487331', N'30.73925'
+1, N'The monument to the heart', N'On the art object "Heart in love" Odessa couples hang their locks, concluding loyalty and strength of love.', N'46.490534', N'30.736055'
+1, N'Golden child', N'It is a bronze sculpture by sculptor Ernst Neizvestny, set at the Odessa Marine Station in 1995.', N'46.490118', N'30.745318'
+1, N'Potemkin monument', N'The monument shows the scene of shotting of rebellious sailors, set in 1965.', N'46.484938', N'30.74705'
+1, N'Babel monument', N'The monument to the writer Isaac Babel, set on Zhukovsky Street in 2011.', N'46.479804', N'30.739711'
+1, N'Gotsman monument', N'It is dedicated to the image of the Odessa police officer after wartime. Gotsman - the main hero of the television series "Liquidation".', N'46.478095', N'30.742946'
+1, N'Monument to Taras Shevchenko', N'Taras Shevchenko is Ukrainian and Russian poet, writer and artist. The monument was erected in 1966.', N'46.479349', N'30.750722'
+1, N'Monument to soldiers-internationalists', N'The monument is dedicated to the 220 died Odessa soldiers in Afghanistan, set in 2000.', N'46.479432', N'30.758744');

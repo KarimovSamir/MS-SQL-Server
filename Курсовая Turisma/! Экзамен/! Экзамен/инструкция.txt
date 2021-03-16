@@ -1,0 +1,3 @@
+users.txt - пользователи (Id, FirstName, LastName, Mail, FB)
+routes.txt - маршруты (Id, IdUser, Type, IdCity, Time, Title, Description)
+route1.txt - точки для первого маршрута (IdRoute, Title, Description, Latitude, Longitude)
